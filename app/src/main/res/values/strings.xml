@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chip View Ex 2</string>
+    <string name="chip_text">Example</string>
+    <string name="enter_chip_txt">Enter Text</string>
+</resources>
